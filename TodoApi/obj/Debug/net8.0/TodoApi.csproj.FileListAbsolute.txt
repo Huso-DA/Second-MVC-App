@@ -234,3 +234,5 @@ C:\Users\HUSO\source\repos\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net
 C:\Users\HUSO\source\repos\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\HUSO\source\repos\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\HUSO\source\repos\TodoApi\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\HUSO\source\repos\TodoApi\TodoApi\bin\Debug\net8.0\TodoApi.staticwebassets.runtime.json
+C:\Users\HUSO\source\repos\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
